@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-gcc-9 -g   CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/tic_tac_toe.c.o CMakeFiles/main.dir/assert_.c.o CMakeFiles/main.dir/min_max.c.o  -o main  -lm 
