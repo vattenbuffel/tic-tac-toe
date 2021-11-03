@@ -1,0 +1,3 @@
+/home/noa/Documents/tic-tac-toe/build/CMakeFiles/rebuild_cache.dir
+/home/noa/Documents/tic-tac-toe/build/CMakeFiles/edit_cache.dir
+/home/noa/Documents/tic-tac-toe/build/CMakeFiles/main.dir
